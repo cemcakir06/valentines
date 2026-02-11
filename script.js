@@ -57,7 +57,7 @@
     { // stage 4 — no4 (Bıdık alone)
       img: 'no4.png',
       alt: 'Bobalak being dramatic',
-      caption: 'Bobalak sinirlenmeye başladı! 📝',
+      caption: 'Bobalak kendisini yatağa attı oldu sanıvım üzüntüsünden! 📝',
       yesLabel: 'Yes! I surrender!',
       noLabel:  'I resist…',
     },
