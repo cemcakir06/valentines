@@ -268,7 +268,7 @@
     titleEl.innerHTML =
       '<span class="title-line">Yay!</span>' +
       '<span class="title-line title-question" forever ♥';
-    messageEl.textContent = 'We knew you\'d say yes! 🌸>Happy Valentine\'s Day, Nergis! 💐</span>';
+    messageEl.textContent = 'We knew you\'d say yes! 🌸>Happy Valentine\'s Day, Nergis! 💐';
     subtitleEl.textContent = 'Cem & Bıdık & Nergis —🐾';
     messageEl.classList.remove('tease');
 
