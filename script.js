@@ -160,7 +160,7 @@
       btnYes.classList.add('irresistible');
       // Tiny, dodgy NO — fast teleport
       btnNo.classList.add('shrink-3', 'dodging');
-      attachDodge('hard');
+      attachDodge('extreme');
     } else if (stage >= 6) {
       btnNo.classList.add('shrink-3', 'dodging');
       attachDodge('medium-hard');
@@ -267,9 +267,9 @@
 
     titleEl.innerHTML =
       '<span class="title-line">Yay!</span>' +
-      '<span class="title-line title-question">Happy Valentine\'s Day, Nergis! 💐</span>';
-    subtitleEl.textContent = 'Cem & Bıdık & Nergis — forever ♥';
-    messageEl.textContent = 'We knew you\'d say yes! 🌸🐾';
+      '<span class="title-line title-question" forever ♥';
+    messageEl.textContent = 'We knew you\'d say yes! 🌸>Happy Valentine\'s Day, Nergis! 💐</span>';
+    subtitleEl.textContent = 'Cem & Bıdık & Nergis —🐾';
     messageEl.classList.remove('tease');
 
     btnYes.classList.add('hidden');
